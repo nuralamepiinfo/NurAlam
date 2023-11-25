@@ -80,6 +80,8 @@ typeof(name);...........songsa bojhanote aita--Number type
 results: name word ta akjaigai Sting typr abar onno jaigai Number type use hosse bolai aita--Dynamic type.
         aijonnei Javascript hosse Dynemic type language.
 
+note: ekhane "typeof" nije akti keyword, not a veriable.
+
 
 
 
