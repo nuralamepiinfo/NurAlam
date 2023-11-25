@@ -66,6 +66,7 @@ console.log(selectedColor);
 
 note: [2]...aita asole 2 number obostan nirdesh kore. 0 number Red, 1 number green, 3 number blue.
 alra [10] dile [10] number oobostane Blue dekhabe r majher 7 ti empty file dekhabe.
+...........................kono nirdharito na hoye akadhitkoption thakai aitai Null option.
 
 
 
