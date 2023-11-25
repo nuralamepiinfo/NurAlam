@@ -141,6 +141,16 @@ console.log(selectedColor);
 note: [2]...aita asole 2 number obostan nirdesh kore. 0 number Red, 1 number green, 3 number blue.
 alra [10] dile [10] number oobostane Blue dekhabe r majher 7 ti empty file dekhabe.
 
+2.7 (Function)
+A--
+function greet() {
+    console.log('Hello World')
+}  (function er ekhane semiclone dile o hoi nah dileo hoi, tai nah dewai beter function er khetre)
+greet();
+
+B--
+
+
 
 
 
