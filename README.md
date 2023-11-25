@@ -119,7 +119,27 @@ person.name = 'Kabir';
 person['name'] = 'Bro';....aitao c type er motoi just ekhane Bracket Notation use hise. r akta bihoi lokkho kora jai, Dot & Bracket Notation Aksathe us ekor ajai. t
 console.log(person);       tobe last a jyta thake sytai show hoi.
 
+2..6 (Arary)
 
+last.A
+let selectedColor = ['red', 'green'];
+console.log(selectedColor);
+
+Type.B
+let selectedColor = ['red', 'green'];
+console.log(selectedColor.length);..........aita emon gonona kore j mot koit a metarial ache.
+                                            ekhane lelth hosse akta prototype.
+last.C
+let selectedColor = ['red', 'green'];
+console.log(selectedColor[1]);
+
+last.D
+let selectedColor = ['Red', 'green'];......Color ghulo non case-sensetive.
+selectedColor[2] = 'Blue';....ekhane blue er jaigai j kono number dile, sei number e output a uthbe.
+console.log(selectedColor);
+
+note: [2]...aita asole 2 number obostan nirdesh kore. 0 number Red, 1 number green, 3 number blue.
+alra [10] dile [10] number oobostane Blue dekhabe r majher 7 ti empty file dekhabe.
 
 
 
