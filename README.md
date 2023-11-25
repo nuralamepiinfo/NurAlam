@@ -10,8 +10,10 @@ console.log(name);
 
 # modern language a sob alada alada lekha hoi.
 
-some sote;
+some note;
 console.log(name); in this bracket like (name)
 01. cannot be a resensive key word.
 02. should be meaningfull.,
-03. 
+03. cant start with a number. (1name
+04. cant contain a space or hypen.
+05. are case-senitive.
