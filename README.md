@@ -30,7 +30,7 @@ const interstRate = 0.3;
 interestRate = 1;
 console.log(interestRate);
 
-2.3 (primitive type) 2.3 te aita meay alochona.
+2.3 (primitive type) 2.3 te aita meay alochona. onno ta hosse Dynamic type.
 A.......primitive type/Value type
 01. string--onekta naam tyer
 02. Number--jekono number typer. like A. floating B. Imagine....java script ai 2 dhoron er e hoi.
@@ -68,6 +68,7 @@ note: [2]...aita asole 2 number obostan nirdesh kore. 0 number Red, 1 number gre
 alra [10] dile [10] number oobostane Blue dekhabe r majher 7 ti empty file dekhabe.
 ...........................kono nirdharito na hoye akadhitkoption thakai aitai Null option.
 
+2.4 (Dynamic type)
 
 
 
