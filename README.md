@@ -84,7 +84,7 @@ note: ekhane "typeof" nije akti keyword, not a veriable.
 
 2.5 (Object)
 
-A type-
+A type- Normal
 let person = {
 name: 'Mosh',
 age: 30            (Ekhane last a kono semiclone home nah)
@@ -92,7 +92,6 @@ age: 30            (Ekhane last a kono semiclone home nah)
 console.log(person);
 
 B type-
-
 let person = {
 name: 'Mosh',
 age: 30
@@ -101,15 +100,27 @@ person.name = 'John';......ekhaner output a Mosh nah asey John Asbe. majhe DOt t
 console.log(person);
 
 C ype-- Nijer Banano
-
 let person = {
 name: 'Mosh',
 age: 30
 };
 person.name = 'John';
 person.name = 'Kabir';
-person.name = 'Bro';......
+person.name = 'Bro';......ekhan theke bojha jai j console er opor last j nam thake just oitai show kore.
 console.log(person);
+
+D type--
+let person = {
+name: 'Mosh',
+age: 30
+};
+person.name = 'John';
+person.name = 'Kabir';
+person['name'] = 'Bro';....aitao c type er motoi just ekhane Bracket Notation use hise. r akta bihoi lokkho kora jai, Dot & Bracket Notation Aksathe us ekor ajai. t
+console.log(person);       tobe last a jyta thake sytai show hoi.
+
+
+
 
 
 
