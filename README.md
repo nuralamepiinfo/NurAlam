@@ -39,6 +39,15 @@ A.......primitive type/Value type
 05. Null--null bolte konokicu onirdharito vabe prokas. jmn Red Green Blue 3 ta color onirdharito vabe bojhano.
 
 
+let name = 'Mosh';
+console.log(name);.........Sring type
+
+let age=30;
+console.log(age);..........Number Type
+
+
+
+
 
 
 
