@@ -45,6 +45,14 @@ console.log(name);.........Sring type
 let age=30;
 console.log(age);..........Number Type
 
+let isApproved = true;
+console.log(isApproved);...Boolean Type
+
+let firstName = undefine;
+console.log(firstName);....run hoina tai undefine
+
+
+
 
 
 
