@@ -17,3 +17,6 @@ console.log(name); in this bracket like (name)
 03. cant start with a number. (1name
 04. cant contain a space or hypen.
 05. are case-senitive.
+
+2.2 calass (constant)
+
