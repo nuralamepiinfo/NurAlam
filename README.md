@@ -24,3 +24,23 @@ right code..
 let interstRate = 0.3;
 interestRate = 1;
 console.log(interestRate);
+
+wrong code.. (beacuse let er jaigai const use kora)
+const interstRate = 0.3;
+interestRate = 1;
+console.log(interestRate);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
