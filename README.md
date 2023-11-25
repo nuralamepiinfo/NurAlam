@@ -92,11 +92,23 @@ age: 30            (Ekhane last a kono semiclone home nah)
 console.log(person);
 
 B type-
+
 let person = {
 name: 'Mosh',
 age: 30
 };
 person.name = 'John';......ekhaner output a Mosh nah asey John Asbe. majhe DOt thakai ai style er nam Dot Notation.
+console.log(person);
+
+C ype-- Nijer Banano
+
+let person = {
+name: 'Mosh',
+age: 30
+};
+person.name = 'John';
+person.name = 'Kabir';
+person.name = 'Bro';......
 console.log(person);
 
 
