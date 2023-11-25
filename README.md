@@ -51,10 +51,21 @@ console.log(isApproved);...Boolean Type
 let firstName = undefine;
 console.log(firstName);....run hoina tai undefine
 
+last.A
+let selectedColor = ['red', 'green'];
+console.log(selectedColor);
 
+last.B
+let selectedColor = ['red', 'green'];
+console.log(selectedColor[1]);
 
+last.C
+let selectedColor = ['Red', 'green'];......Color ghulo non case-sensetive.
+selectedColor[2] = 'Blue';....ekhane blue er jaigai j kono number dile, sei number e output a uthbe.
+console.log(selectedColor);
 
-
+note: [2]...aita asole 2 number obostan nirdesh kore. 0 number Red, 1 number green, 3 number blue.
+alra [10] dile [10] number oobostane Blue dekhabe r majher 7 ti empty file dekhabe.
 
 
 
