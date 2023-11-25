@@ -69,6 +69,18 @@ alra [10] dile [10] number oobostane Blue dekhabe r majher 7 ti empty file dekha
 ...........................kono nirdharito na hoye akadhitkoption thakai aitai Null option.
 
 2.4 (Dynamic type)
+note: Javascript akti Dynamic Type language.
+
+let name = 'John';
+typeof(name);...........nam bijhanote aita--String type
+
+let name = 2;
+typeof(name);...........songsa bojhanote aita--Number type
+
+results: name word ta akjaigai Sting typr abar onno jaigai Number type use hosse bolai aita--Dynamic type.
+        aijonnei Javascript hosse Dynemic type language.
+
+
 
 
 
