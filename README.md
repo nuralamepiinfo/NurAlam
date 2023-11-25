@@ -82,6 +82,26 @@ results: name word ta akjaigai Sting typr abar onno jaigai Number type use hosse
 
 note: ekhane "typeof" nije akti keyword, not a veriable.
 
+2.5 (Object)
+
+A type-
+let person = {
+name: 'Mosh',
+age: 30            (Ekhane last a kono semiclone home nah)
+};
+console.log(person);
+
+B type-
+let person = {
+name: 'Mosh',
+age: 30
+};
+person.name = 'John';......ekhaner output a Mosh nah asey John Asbe. majhe DOt thakai ai style er nam Dot Notation.
+console.log(person);
+
+
+
+
 
 
 
