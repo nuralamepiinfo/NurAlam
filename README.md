@@ -20,3 +20,7 @@ console.log(name); in this bracket like (name)
 
 2.2 calass (constant)
 
+right code..
+let interstRate = 0.3;
+interestRate = 1;
+console.log(interestRate);
